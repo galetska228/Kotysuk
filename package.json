@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "tea": "1.0.0",
-    "trukytnuk": "1.0.0"
+    "trukytnuk": "1.0.0",
+    "kysokkakashku": "1.0.0"
   },
   "author": "",
   "license": "ISC",
