@@ -1,0 +1,23 @@
+{
+  "name": "kotysuk",
+  "version": "1.0.0",
+  "description": "Kotysuk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/galetska228/Kotysuk.git"
+  },
+  "dependencies": {
+    "tea": "1.0.0",
+    "trukytnuk": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galetska228/Kotysuk/issues"
+  },
+  "homepage": "https://github.com/galetska228/Kotysuk#readme"
+}
