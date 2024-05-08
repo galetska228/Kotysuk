@@ -1,6 +1,6 @@
 {
   "name": "kotysuk",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Kotysuk",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "dependencies": {
     "tea": "1.0.0",
     "trukytnuk": "1.0.0",
-    "kysokkakashku": "1.0.0"
+    "kysokkakashku": "1.0.0",
+    "paket228": "1.0.3"
   },
   "author": "",
   "license": "ISC",
